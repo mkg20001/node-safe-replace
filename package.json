@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/coolaj86/node-safe-replace/issues"
   },
-  "homepage": "https://github.com/coolaj86/node-safe-replace#readme"
+  "homepage": "https://github.com/coolaj86/node-safe-replace#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
 }
